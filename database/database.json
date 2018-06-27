@@ -1,0 +1,68 @@
+{
+    "Employees": [
+        {
+            "employeeId": 1,
+            "name": "Gerald"
+        },
+        {
+            "employeeId": 2,
+            "name": "Ronaldo"
+        },
+        {
+            "employeeId": 3,
+            "name": "Gruntilda"
+        },
+        {
+            "employeeId": 4,
+            "name": "Harold"
+        },
+        {
+            "employeeId": 5,
+            "name": "Sharon"
+        }
+    ],
+    "Departments": [
+        {
+            "productId": 1,
+            "name": "It",
+            "productType": 1
+        },
+        {
+            "productId": 2,
+            "name": "Human Resources",
+            "productType": 2
+        },
+        {
+            "productId": 3,
+            "name": "Accounting",
+            "productType": 1
+        },
+        {
+            "productId": 4,
+            "name": "Internal Auditing",
+            "productType": 1
+        }
+    ],
+    "Computers": [
+        {
+            "compId": 1,
+            "comp": "2015 MacBook Pro"
+        },
+        {
+            "compId": 2,
+            "comp": "2011 MacBook Air"
+        },
+        {
+            "compId": 3,
+            "comp": "2014 Razer Blade"
+        },
+        {
+            "compId": 4,
+            "comp": "2012 Mac Pro"
+        },
+        {
+            "compId": 5,
+            "comp": "2016 Microsoft Surface"
+        }
+    ]
+}
