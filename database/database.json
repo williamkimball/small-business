@@ -1,67 +1,73 @@
 {
     "Employees": [
         {
-            "employeeId": 1,
-            "name": "Gerald"
+            "id": 1,
+            "name": "Gerald",
+            "department": 4,
+            "comp": 3
         },
         {
-            "employeeId": 2,
-            "name": "Ronaldo"
+            "id": 2,
+            "name": "Ronaldo",
+            "department": 3,
+            "comp": 2
         },
         {
-            "employeeId": 3,
-            "name": "Gruntilda"
+            "id": 3,
+            "name": "Gruntilda",
+            "department": 1,
+            "comp": 1
         },
         {
-            "employeeId": 4,
-            "name": "Harold"
+            "id": 4,
+            "name": "Harold",
+            "department": 3,
+            "comp": 2
         },
         {
-            "employeeId": 5,
-            "name": "Sharon"
+            "id": 5,
+            "name": "Sharon",
+            "department": 1,
+            "comp": 4
         }
     ],
     "Departments": [
         {
-            "productId": 1,
-            "name": "It",
-            "productType": 1
+            "id": 1,
+            "name": "It"
         },
         {
-            "productId": 2,
-            "name": "Human Resources",
-            "productType": 2
+            "id": 2,
+            "name": "Human Resources"
         },
         {
-            "productId": 3,
-            "name": "Accounting",
-            "productType": 1
+            "id": 3,
+            "name": "Accounting"
         },
         {
-            "productId": 4,
-            "name": "Internal Auditing",
-            "productType": 1
+            "id": 4,
+            "name": "Internal Auditing"
         }
     ],
     "Computers": [
         {
-            "compId": 1,
+            "id": 1,
             "comp": "2015 MacBook Pro"
         },
         {
-            "compId": 2,
+            "id": 2,
             "comp": "2011 MacBook Air"
         },
         {
-            "compId": 3,
+            "id": 3,
             "comp": "2014 Razer Blade"
         },
         {
-            "compId": 4,
+            "id": 4,
             "comp": "2012 Mac Pro"
         },
         {
-            "compId": 5,
+            "id": 5,
             "comp": "2016 Microsoft Surface"
         }
     ]
