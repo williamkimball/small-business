@@ -5,7 +5,6 @@ const employeeList = Object.create({}, {
         value: function () {
             employeeCollectionModule.getEmployee()
                 .then((response) => {
-                    console.log("all employees", response)
                     const currentListRef = document.querySelector(".list-employees-article")
                     if (currentListRef) {
                         currentListRef.remove()
